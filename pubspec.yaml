@@ -14,7 +14,7 @@ dependencies:
   dartz:
   data_connection_checker_tv: ^0.3.5-nullsafety #internet connection checker
   provider:  #state management
-  path_provider:
+  path_provider: #using apps paths within code
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
